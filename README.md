@@ -3,10 +3,10 @@
 🌱 I use this space to explore how data speaks and how its stories shape better decisions.
 
 ### My Journey in Data
-- I start with questions → what’s hidden in the numbers?<br>
-- I dig into patterns → EDA, modeling, and machine learning.<br>
-- I bring it to life → dashboards, reports, and storytelling visuals.<br>
-- I push boundaries → experimenting with AI models to see “what if?”
+- **I start with questions** → what’s hidden in the numbers?<br>
+- **I dig into patterns** → EDA, modeling, and machine learning.<br>
+- **I bring it to life** → dashboards, reports, and storytelling visuals.<br>
+- **I push boundaries** → experimenting with AI models to see “what if?”
 
 ### Great things happen when data minds connect — let’s make it happen!🍁 <br>
 ### Find me around the web🌐:
