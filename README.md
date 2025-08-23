@@ -1,6 +1,6 @@
 # Hi there!🌻
 🌷 I’m Kirti, a curious mind who loves exploring how data tells stories.<br>
-🌱 I use this space to explore how data speaks and how its stories shape better decisions.
+🌱 Here, I explore how data speaks and the stories it tells to shape better decisions.
 
 ### My Journey in Data
 - **I start with questions** → what’s hidden in the numbers?<br>
