@@ -10,7 +10,6 @@
 
 ### Great things happen when data minds connect — let’s make it happen!🍁 <br>
 ### Find me around the web🌐:
-<a href="https://instagram.com/kirti_bohra15"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 <a href="https://linkedin.com/in/kirtibohra15"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 <a href="https://medium.com/@kirtibohra15"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="40"/></a>
 <a href="https://x.com/KirtiBohra15"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="40"/></a>
